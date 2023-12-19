@@ -1,5 +1,11 @@
+#Ignore json
+*.json
+#Ignore sbi
+*.sbi
 #Ignore bam
 *.bam
+#Ignore fam
+*.fam
 #Ignore bcf
 *.bcf
 #Ignore vcf 
