@@ -22,3 +22,5 @@
 *.fai
 #Ignore fasta
 *.fasta
+#Ignore pdf
+*.pdf
