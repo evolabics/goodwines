@@ -1,0 +1,24 @@
+#Ignore bam
+*.bam
+#Ignore bcf
+*.bcf
+#Ignore vcf 
+*.vcf
+#Ignore txt 
+*.txt
+#Ignore csi
+*.csi
+#Ignore bai
+*.bai
+#Ignore gz
+*.gz
+#Ignore tbi
+*.tbi
+#Ignore ~
+*~
+#Ignore idx
+*.idx
+#Ignore fai
+*.fai
+#Ignore fasta
+*.fasta
